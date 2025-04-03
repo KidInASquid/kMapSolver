@@ -1,4 +1,4 @@
-# K-map Solver
+# K-Map Solver
 
 This project is a K-map (Karnaugh map) solver that simplifies Boolean expressions using the K-map method. It provides a user-friendly interface for inputting K-map data and outputs the simplified Boolean expression.
 
